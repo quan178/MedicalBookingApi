@@ -38,8 +38,8 @@ This project demonstrates how to handle **booking logic**, **concurrency control
 
 ## 📸 Screenshots
 
-![Swagger UI]([https://github.com/user-attachments/assets/fcd9442f-e2d2-4478-8b2e-81e43d2fbe1d])
+![Swagger UI](https://github.com/user-attachments/assets/fcd9442f-e2d2-4478-8b2e-81e43d2fbe1d)
 *API Documentation with Swagger*
 
-![Conflict Error]([https://github.com/user-attachments/assets/ea49efe9-e986-42b0-83bc-f860f322803d])
+![Conflict Error](https://github.com/user-attachments/assets/ea49efe9-e986-42b0-83bc-f860f322803d)
 *Logic handling: Preventing duplicate bookings*
